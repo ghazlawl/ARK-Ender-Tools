@@ -1,0 +1,24 @@
+Begin Object Class=MaterialInstanceConstant Name="Arrow_MIC"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+      PreviewMesh=/Game/PrimalEarth/WeaponBow/Arrow01_SM.Arrow01_SM
+   End Object
+   Parent=Material'/Game/PrimalEarth/Environment/BaseMaterials/BM_Weapons_NOMEtallic.BM_Weapons_NOMetallic'
+   ParentLightingGuid=0892E8244D4B738C3E228CB3F89F6FFC
+   ScalarParameterValues(0)=(ParameterName="RougnessMultiplier",ParameterValue=1.000000,ExpressionGUID=E6B0294E43EB05E189F053B966B87700)
+   ScalarParameterValues(1)=(ParameterName="RefractionDepthBias")
+   TextureParameterValues(0)=(ParameterName="Occlusion",ParameterValue=Texture2D'/Game/PrimalEarth/WeaponBow/Textures/Arrow_AO.Arrow_AO',ExpressionGUID=5A46728847362B34BA157B88842EBBCE)
+   TextureParameterValues(1)=(ParameterName="Roughness",ParameterValue=Texture2D'/Game/PrimalEarth/WeaponBow/Textures/Arrow_roughness.Arrow_roughness',ExpressionGUID=9493C83F461032215E7E4F8C70DE51FA)
+   TextureParameterValues(2)=(ParameterName="Difuse",ParameterValue=Texture2D'/Game/PrimalEarth/WeaponBow/Textures/Arrow_base_color.Arrow_base_color',ExpressionGUID=16B047934645DC2C62741D94EF2C020E)
+   TextureParameterValues(3)=(ParameterName="Normal",ParameterValue=Texture2D'/Game/PrimalEarth/WeaponBow/Textures/Arrow_normal.Arrow_normal',ExpressionGUID=022EF432470D431FBEE9ECA62DFDE7BB)
+   BasePropertyOverrides=(bOverride_BlendMode=True,BlendMode=BLEND_Translucent)
+   ReferencedTextureGuids(0)=261CE4294794BC13A111E99258CD452C
+   ReferencedTextureGuids(1)=E0758DA64F7EC3FBB7A56288A2390C59
+   ReferencedTextureGuids(2)=CFC1CAEB4FF08F864B9CD3941B8DED8A
+   ReferencedTextureGuids(3)=57AD01064006008BB5AF968529012866
+   ReferencedTextureGuids(4)=568CA33544EDCD8110776F924ED9321B
+   PreviewMesh=/Game/PrimalEarth/WeaponBow/Arrow01_SM.Arrow01_SM
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=ED4ADAEB40CF6F06E6A59A821A9ADE58
+End Object
